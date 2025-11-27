@@ -80,5 +80,6 @@ int main() {
     Unos_Podataka();
     IspisListe();
     UpisUDatoteku();
+    printf("Kraj programa \n");
     return 0;
 }
