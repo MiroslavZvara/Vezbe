@@ -76,6 +76,7 @@ void UpisUDatoteku() {
 }
 
 int main() {
+    printf("Pocetak programa \n");
     Unos_Podataka();
     IspisListe();
     UpisUDatoteku();
